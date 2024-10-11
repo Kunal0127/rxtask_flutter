@@ -1,0 +1,45 @@
+Hello Kunal,
+
+I hope you are doing well.
+
+Thank you for applying for the Flutter Developer position. As a part of our selection process, we send assignments to selected candidates, and you are one of them! It’s meant to assess your skills as a Flutter Developer.
+
+This document outlines the practical task for the Flutter Developer position. This task assesses your understanding of Flutter and your ability to create Application.
+
+Task Description ::
+
+1. Splash
+- You can use your creativity on the splash screen.
+ 
+2. Login
+- Take two fields: Mobile and password.
+- Take variable to check mobile = 9033006262 and password = eVital@12
+ With proper validation.
+ 
+3. Home page
+- Take a list of 43 records. (You can use a database (use Hive) or a local list. It's your choice.)
+- Pagination of 20 records in the list (scroll down the list to get more than 20 records)
+- Name, phone number, city, an image of the user, and Rupee. Where stock is Rupee 0 to 100 if above 50 then it’s high and below 50 then it’s low.
+
+- The list can be filtered by name/phone/city
+
+4. Click on the row to open Dialog and change Rupee. and that updated Rupee will be reflected on the list.
+
+Submit the APK file and full source code after your task with Github link.  
+
+Time to Submit Practical ::
+Within 2 Days (Before 12/10/2024)
+
+Evaluation Criteria::
+
+Your solution will be evaluated on the following:
+- Functionality:
+- Code Quality:
+- User Experience:
+- Visual Design:
+- Performance:
+
+Good Luck!
+
+Regards, 
+Ronak Priyadarshi
